@@ -1,6 +1,3 @@
-### Basic Library Files - p5.boilerplate
-Basic Libraries for both P5 Editor and Physics Engine
+# PLINKO WITH SCORES
 
-## For direct P5 : https://editor.p5js.org/whitehatjr.priya/sketches/ekvRrFUVJ
-
-Fork
+## Project link = https://soham2008.github.io/Project-33/
